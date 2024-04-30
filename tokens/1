@@ -1,11 +1,11 @@
 {
     "id": 1,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token1.webp",
+    "image": "https://github.com/canter1/images/blob/b865f30049a719ccc692d66bbaa4145cbe3158ad/Bard_Generated_Image.jpg",
     "token_id": "1",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT #1",
+    "name": "PuRiTy",
     "description": "This NFT is my first Immutable zkEVM NFT",
     "external_url": null,
     "attributes": [
